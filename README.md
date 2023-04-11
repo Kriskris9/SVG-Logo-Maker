@@ -21,7 +21,7 @@ Please refer to the LICENSE in the repo.
 
 ## Assets
 
-
+![alt](./screenshots/Screenshot%202023-04-10%20at%208.42.06%20PM.png)
 
 ## Deployed 
 
